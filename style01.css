@@ -1,0 +1,11 @@
+.main {
+	height: 800px;
+}
+.div1 {
+	height: 100px;
+	background: yellow;
+}
+.kartina {
+	border: none;
+	border-image: 25px;
+}
